@@ -1,3 +1,3 @@
 # Model-based-deconvolution
 
-Here I will put the source code (once it is cleaned) for the model-based deconvolution method to estimate a motor unit twitch based on a force signal.
+Matlab code to perform model-based deconvolution and spike-triggered averaging on a simulated force signal to estimate motor unit twitches. Preprint: "Model-based deconvolution of a force signal to estimate motor unit twitch parameters under low, moderate and high force isometric contractions" (https://doi.org/10.1101/2024.05.14.594072)
